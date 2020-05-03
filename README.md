@@ -1,3 +1,3 @@
-# guess-password-with-GA  
+# Examples-of-genetic-algorithms
 
-Przykład szukania konkretnego słowa za pomocą algorytmu genetycznego.
+Przykłady użycia algorytmu genetycznego do rozwiązywania wybranych problemów
